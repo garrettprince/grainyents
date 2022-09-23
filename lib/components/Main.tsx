@@ -3,6 +3,8 @@ import Controls from './Controls'
 import MobileGenerator from './MobileGenerator'
 
 function Main() {
+
+
   return (
     <div>
         <MobileGenerator />
