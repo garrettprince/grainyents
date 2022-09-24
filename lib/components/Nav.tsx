@@ -5,11 +5,11 @@ function Nav() {
       <section className="flex items-center space-x-10">
         <div className="relative group">
           <button className="text-2xl">How it works</button>
-          <span className="absolute left-0 -bottom-3 w-0 h-3 bg-yellow-300 transition-all group-hover:w-full"></span>
+          <span className="absolute left-0 -bottom-3 w-0 h-2 bg-black transition-all group-hover:w-full"></span>
         </div>
         <div className="relative group">
           <button className="text-2xl">Contact</button>
-          <span className="absolute left-0 -bottom-3 w-0 h-3 bg-yellow-300 transition-all group-hover:w-full"></span>
+          <span className="absolute left-0 -bottom-3 w-0 h-2 bg-black transition-all group-hover:w-full"></span>
         </div>
       </section>
     </div>
