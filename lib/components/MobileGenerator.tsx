@@ -10,9 +10,10 @@ function MobileGenerator() {
         width="full"
       >
         <filter id="noiseFilter">
+            {/* <feGaussianBlur stdDeviation="1" /> */}
           <feTurbulence
             type="fractalNoise"
-            baseFrequency="6.5"
+            baseFrequency="1.5"
             numOctaves="5"
             stitchTiles="stitch"
           />

@@ -7,7 +7,7 @@ import Nav from '../lib/components/Nav'
 
 const Home: NextPage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-between py-6">
+    <div className="flex min-h-screen flex-col items-center justify-between pt-10">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
